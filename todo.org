@@ -1,0 +1,4 @@
+#+title: TODOs
+#+description: A list of things that I want to do in my NixOS config
+#+author: Gardner Berry
+#+options: toc:nil num:nil timestamp:nil
