@@ -2,3 +2,7 @@
 #+description: A list of things that I want to do in my NixOS config
 #+author: Gardner Berry
 #+options: toc:nil num:nil timestamp:nil
+* TODO Figure out how to use emacs 29 on NixOS
+I know how to do compilation flags but I need to figure out how to get the current "rev =" and sha256 hash.
+[[https://www.heinrichhartmann.com/posts/2021-08-08-nix-emacs/][First Steps with Nix - Building emacs]]
+[[file:emacs-from-scratch.nix]]
